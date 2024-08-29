@@ -21,3 +21,8 @@ Step IV - Then I created some important visuals and charts like shipping cost by
 
 
 Dashboard 1 
+![c1](https://github.com/user-attachments/assets/9de3068d-5a69-46d1-8785-60049c15148f)
+
+
+Dashboard 2
+![c2](https://github.com/user-attachments/assets/5a6c3694-7589-4e2f-ad0b-1f35d26e8218)
