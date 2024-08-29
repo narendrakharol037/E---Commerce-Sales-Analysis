@@ -33,4 +33,24 @@ Dashboard 2
 
 ### Insights I
 
+👉 Maximum Average shipping delay for standrad class i.e. 4.95, followed by second class and first class.
+
+👉 Shipping cost by sub - category maximum for Phones i.e. 185k and  followed by chairs & copiers.
+
+👉 Maximum profit given by Consumer i.e. 0.75M and followed by corporate & Home Office.
+
+👉 Maximum Sales given by Technology i.e. 37.53% and followed by Furniture & Office Supplies.
+
+
+### Insights II
+
+👉 Shipping by Order Priority maximum for medium and followed by High & Critical.
+
+👉 Shipping by Ship Mode maximum for Standard class and followed by second class & first class.
+
+👉 Shipping Cost by Order Priority maximum for medium i.e. 0.75M and followed by High & critical.
+
+👉 Total sales by city maximum for New York i.e. 5M and followed by Los Angeles.
+
+👉 Total Sales by State maximum for California i.e. 8M followed by England & New York.
 
